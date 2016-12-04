@@ -3,6 +3,9 @@
 ATS(Ayush Tech Software)- CDR Analyzer
 
 ATS Call Data Record analyzer can import and analyze CDR/Tower CDR Data from any service provider in India or Other Country and Its generates a comprehensive report of frequency statistics including service provider details and subscriber details (SDR)* of CDR Numbers. ATS CDR Analyzer Supported All version of excel, .CSV and .text format CDR Files.
+
+<img src='http://www.cdrdataanalysis.com/images/cdr-home-screencast.png' />
+
 Features:
 
     Support CDR/Tower CDR files of .XLS(x), .csv, .txt file formats.
